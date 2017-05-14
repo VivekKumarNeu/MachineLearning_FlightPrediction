@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Backup\Github\MachineLearning_FlightPrediction_-master\VisualStudio_Restful service\AirlineDelayPrediction\Assignment3\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Backup\Github\MachineLearning_FlightPrediction_-master\VisualStudio_Restful service\AirlineDelayPrediction\Assignment3\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Backup\Github\MachineLearning_FlightPrediction_-master\VisualStudio_Restful service\AirlineDelayPrediction\Assignment3\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

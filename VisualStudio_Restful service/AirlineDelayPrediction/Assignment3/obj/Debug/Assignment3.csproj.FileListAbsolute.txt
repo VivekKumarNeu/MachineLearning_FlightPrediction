@@ -1,0 +1,573 @@
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\ApplicationInsights.config
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\csc.exe
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\vbc.exe
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Assignment3.dll.config
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Assignment3.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Assignment3.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\EntityFramework.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Owin.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Web.Providers.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\WebGrease.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\EntityFramework.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\System.Web.Providers.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+c:\users\vivek\documents\visual studio 2015\Projects\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\WebGrease.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Owin.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\WebGrease.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\WebGrease.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Latest\Assignment3\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work_Vyshak\Personal\Data Science\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Assignment3.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\mscorlib.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Owin.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Net.Http.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\WebGrease.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Net.Http.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\normidna.nlp
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\normnfc.nlp
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\normnfd.nlp
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\normnfkc.nlp
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\bin\normnfkd.nlp
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\KT\p\assignment 3\Friday morning\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Owin.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\WebGrease.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Assignment3\Vivek\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\ApplicationInsights.config
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\csc.exe
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\System.Collections.Immutable.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\vbc.exe
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\roslyn\VBCSCompiler.exe.config
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Antlr3.Runtime.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\AspNet.ScriptManager.jQuery.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\EntityFramework.SqlServer.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.Web.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Web.Infrastructure.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Newtonsoft.Json.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Owin.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Net.Http.Formatting.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Web.Optimization.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Web.Providers.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\WebGrease.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.Web.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AI.WindowsServer.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.ApplicationInsights.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Net.Http.Formatting.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Web.Optimization.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Antlr3.Runtime.pdb
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Newtonsoft.Json.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\EntityFramework.SqlServer.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\System.Web.Providers.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Google.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Northeastern\Semester4\ADS\Final Project\Final UI\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
